@@ -1,6 +1,4 @@
-# Hi there, I'm Yogesh Dewangan! 👋
-
-![Banner Image](your_banner_image_url_here)
+![Banner Image](./banner.png)
 
 ## About Me 🚀
 
@@ -29,4 +27,4 @@ I'm a passionate **Full-Stack Developer** with experience in **React | Angular |
 
 ## Get in Touch 📬
 
-- **LinkedIn:** ![Yogesh Dewangan](https://www.linkedin.com/in/yogdev0dew)
+- **LinkedIn:** https://www.linkedin.com/in/yogdev0dew
